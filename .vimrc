@@ -1,5 +1,6 @@
 syntax on
 set hlsearch
+set incsearch
 " Press Space to turn off highlighting and clear any message already displayed.
 nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>
 colo desert
