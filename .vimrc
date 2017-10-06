@@ -1,4 +1,7 @@
 syntax on
+set hlsearch
+" Press Space to turn off highlighting and clear any message already displayed.
+nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>
 colo desert
 set number
 set tabstop=4
