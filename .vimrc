@@ -12,3 +12,5 @@ set ruler
 inoremap jj <Esc>
 inoremap <S-Tab> <C-V><Tab>
 
+" Press F5 to change // comments to /* */ comments
+nnoremap c// :%s#//\(.*\)#/*\1 */#
