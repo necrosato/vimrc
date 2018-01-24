@@ -14,3 +14,4 @@ inoremap <S-Tab> <C-V><Tab>
 
 " Press 'c//' to change // comments to /* */ comments
 nnoremap c// :%s#//\(.*\)#/*\1 */#
+autocmd BufNewFile,BufReadPost *.ispc set filetype=cpp
