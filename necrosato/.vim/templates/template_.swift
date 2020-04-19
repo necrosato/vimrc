@@ -3,6 +3,6 @@
 // Naookie Sato
 //
 // Created by Naookie Sato on <+DATE,%m/%d/%Y+>
-// Copyright © 2018 Naookie Sato. All rights reserved.
+// Copyright © <+DATE,%Y+> Naookie Sato. All rights reserved.
 //
 
