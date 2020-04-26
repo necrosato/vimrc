@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/necrosato/Documents/Arduino/libraries/HID'
-let g:netrw_dirhist_2='/Users/necrosato/Documents/iron-biscotti/launch-daemon'
-let g:netrw_dirhist_3='/private/etc/ssh'
-let g:netrw_dirhist_4='/Volumes/nsb0/CIS/Shogun_of_Water/.git'
